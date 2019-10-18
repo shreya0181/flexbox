@@ -1,0 +1,61 @@
+button{
+    color: #fff;
+    background-color: #5995DA; 
+    width: 500px;
+}
+body{
+    align-items: justify;
+}
+
+.sign{
+    margin:  20px 20px 20px 20px ;
+  }
+#sign-up
+{
+    margin:  0 auto;
+   background-color:  #5995DA; 
+   width: 500px;
+   height: 500px;
+   color:lightblue;
+
+}
+/* .signup{
+    cursor: pointer ;
+    margin: 0 auto ;
+    border : 2px solid white; 
+    color: white;
+
+} */
+#signup2{
+    cursor: pointer ;
+    margin: 0 auto ;
+    border : 2px solid white;
+}
+#header
+{    
+    margin: 0 auto;
+    margin-top:50px ;
+    background-color:  #5995DA;
+    height: 500px;
+    width: 500px;
+    color:  white;
+    box-sizing: content-box;
+}
+
+button{
+  margin: 50% 50% 50% 50%;
+    width: 60px ;
+    height: 20px;
+   
+
+}
+.sign{
+  
+    margin-left : 50px;
+    margin: 5%  20% 0%  20%;
+}
+#bxy{
+    margin-top:70px ;
+}
+
+
